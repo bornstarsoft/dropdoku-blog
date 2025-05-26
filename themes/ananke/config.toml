@@ -1,0 +1,10 @@
+
+baseURL = "https://dropdoku-blog.pages.dev/"
+languageCode = "en-us"
+title = "Dropdoku Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
